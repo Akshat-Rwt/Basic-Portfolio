@@ -1,1 +1,2 @@
 The Web Development Portfolio Project is a vital endeavor for any web developer aiming to establish a strong online presence and attract potential clients or employers. Through an aesthetically pleasing and functional website, the project showcases the developer's technical skills, expertise, and creativity while staying up to date with the latest industry standards. The portfolio serves as a testament to the developer's past projects, proficiency in various technologies, and commitment to delivering high-quality web development solutions
+
